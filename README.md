@@ -14,7 +14,7 @@ Projeto desenvolvido na trybe de CRUD de cartões de filmes em React.
 
 - Clone o repositório
 - Entre na pasta do repositório que você acabou de clonar
-- Instale as dependências:
+- Instale as dependências e rode o projeto
 ```bash 
   npm install
   npm start
